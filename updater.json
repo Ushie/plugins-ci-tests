@@ -1,1002 +1,1002 @@
 {
     "DiscordJS": {
         "version": "1.1.0",
-        "build": "https://plugins.ushie.dev/DiscordJS",
+        "build": "https://plugins.ushie.dev/DiscordJS.zip",
         "changelog": "# 1.1.0\n* Updated for v101.3",
         "minimumAliucordVersion": "2.9.1",
         "minimumKotlinVersion": "1.5.21",
-        "minimumApiLevel": "24"
+        "minimumApiLevel": 24
     },
     "ReactionNotifier": {
         "version": "1.0.4",
-        "build": "https://plugins.ushie.dev/ReactionNotifier",
+        "build": "https://plugins.ushie.dev/ReactionNotifier.zip",
         "changelog": "null",
         "minimumAliucordVersion": "2.9.1",
         "minimumKotlinVersion": "1.5.21",
-        "minimumApiLevel": "24"
+        "minimumApiLevel": 24
     },
     "SilentMessages": {
         "version": "1.0.7",
-        "build": "https://plugins.ushie.dev/SilentMessages",
+        "build": "https://plugins.ushie.dev/SilentMessages.zip",
         "changelog": "# 1.0.1\n* Added an indicator for silent messages\n\n# 1.0.0\n* Initial version",
         "minimumAliucordVersion": "2.9.1",
         "minimumKotlinVersion": "1.5.21",
-        "minimumApiLevel": "24"
+        "minimumApiLevel": 24
     },
     "ReadAllButton": {
         "version": "1.0.8",
-        "build": "https://plugins.ushie.dev/ReadAllButton",
+        "build": "https://plugins.ushie.dev/ReadAllButton.zip",
         "changelog": "# 1.0.7\n* Removed the toast\n* Prompts a restart after reading\n\n# 1.0.5\n* Added toast with channel read count\n\n# 1.0.3\n* Optimized functionality\n\n# 1.0.2\n* Improved button appearance\n\n# 1.0.1\n* Fixed some bugs\n\n# 1.0.0\n* Initial version",
         "minimumAliucordVersion": "2.9.1",
         "minimumKotlinVersion": "1.5.21",
-        "minimumApiLevel": "24"
+        "minimumApiLevel": 24
     },
     "StatusSheetPlus": {
         "version": "1.0.0",
-        "build": "https://plugins.ushie.dev/StatusSheetPlus",
+        "build": "https://plugins.ushie.dev/StatusSheetPlus.zip",
         "changelog": "null",
         "minimumAliucordVersion": "2.9.1",
         "minimumKotlinVersion": "1.5.21",
-        "minimumApiLevel": "24"
+        "minimumApiLevel": 24
     },
     "Texter": {
         "version": "1.0.3",
-        "build": "https://plugins.ushie.dev/Texter",
+        "build": "https://plugins.ushie.dev/Texter.zip",
         "changelog": "# Version 1.0.3\n* Updated for new discord/aliucord version\n# Version 1.0.2\n* Converted code to use kotlin\n# Version 1.0.1\n* Refactored code\n* Resolve older android compatibility issues\n# Version 1.0.0\n* Initial release",
         "minimumAliucordVersion": "2.9.1",
         "minimumKotlinVersion": "1.5.21",
-        "minimumApiLevel": "24"
+        "minimumApiLevel": 24
     },
     "StartupChannel": {
         "version": "1.0.3",
-        "build": "https://plugins.ushie.dev/StartupChannel",
+        "build": "https://plugins.ushie.dev/StartupChannel.zip",
         "changelog": "null",
         "minimumAliucordVersion": "2.9.1",
         "minimumKotlinVersion": "1.5.21",
-        "minimumApiLevel": "24"
+        "minimumApiLevel": 24
     },
     "ChannelLocker": {
         "version": "1.0.3",
-        "build": "https://plugins.ushie.dev/ChannelLocker",
+        "build": "https://plugins.ushie.dev/ChannelLocker.zip",
         "changelog": "null",
         "minimumAliucordVersion": "2.9.1",
         "minimumKotlinVersion": "1.5.21",
-        "minimumApiLevel": "24"
+        "minimumApiLevel": 24
     },
     "SearchScrollSaver": {
         "version": "1.0.3",
-        "build": "https://plugins.ushie.dev/SearchScrollSaver",
+        "build": "https://plugins.ushie.dev/SearchScrollSaver.zip",
         "changelog": "# 1.0.1\n* Hopefully no timing issues\n\n# 1.0.0\n* Initial version",
         "minimumAliucordVersion": "2.9.1",
         "minimumKotlinVersion": "1.5.21",
-        "minimumApiLevel": "24"
+        "minimumApiLevel": 24
     },
     "MediaPickerPatcher": {
         "version": "1.1.0",
-        "build": "https://plugins.ushie.dev/MediaPickerPatcher",
+        "build": "https://plugins.ushie.dev/MediaPickerPatcher.zip",
         "changelog": "# 1.1.0\n      * Allow selecting a file picker inside the android file browser when holding the button\n      # 1.0.91\n      * Aliucord removed Pine hooks finally so I had to fix it\n      # 1.0.9\n      * Allow picking more than one file if your gallery app supports it, usually by holding down an image instead of tapping.\n      # 1.0.8\n      * Fix for Discord 112.4 (Will break on earlier versions)\n      # 1.0.7\n      * Fix for Discord 105.12 (Will break on earlier versions)\n      # 1.0.6\n      * Fix the \"Allow All\" setting being on by default, finally",
         "minimumAliucordVersion": "2.9.1",
         "minimumKotlinVersion": "1.5.21",
-        "minimumApiLevel": "24"
+        "minimumApiLevel": 24
     },
     "BetterSpoiler": {
         "version": "1.0.0",
-        "build": "https://plugins.ushie.dev/BetterSpoiler",
+        "build": "https://plugins.ushie.dev/BetterSpoiler.zip",
         "changelog": "null",
         "minimumAliucordVersion": "2.9.1",
         "minimumKotlinVersion": "1.5.21",
-        "minimumApiLevel": "24"
+        "minimumApiLevel": 24
     },
     "CopyLinks": {
         "version": "1.0.0",
-        "build": "https://plugins.ushie.dev/CopyLinks",
+        "build": "https://plugins.ushie.dev/CopyLinks.zip",
         "changelog": "null",
         "minimumAliucordVersion": "2.9.1",
         "minimumKotlinVersion": "1.5.21",
-        "minimumApiLevel": "24"
+        "minimumApiLevel": 24
     },
     "ForwardMessages": {
         "version": "1.0.3",
-        "build": "https://plugins.ushie.dev/ForwardMessages",
+        "build": "https://plugins.ushie.dev/ForwardMessages.zip",
         "changelog": "v1.0.3\n- Fixed forward icon having incorrect coloring due to wrong context\n\nv1.0.2\n- Fixed sharing being broken\n\nv1.0.1\n- Changed the icon with the forward icon (mirrored)\n- Internal data processing for IDs is now different\n\nv1.0.0\n- Initial release",
         "minimumAliucordVersion": "2.9.1",
         "minimumKotlinVersion": "1.5.21",
-        "minimumApiLevel": "24"
+        "minimumApiLevel": 24
     },
     "ModernProfiles": {
         "version": "1.0.2",
-        "build": "https://plugins.ushie.dev/ModernProfiles",
+        "build": "https://plugins.ushie.dev/ModernProfiles.zip",
         "changelog": "# 1.0.2\n* Light mode profiles are now supported, which means you can now flashbang yourself using Aliucord! You're welcome. \n* Oh and dark mode profiles stay the same. Yeah.",
         "minimumAliucordVersion": "2.9.1",
         "minimumKotlinVersion": "1.5.21",
-        "minimumApiLevel": "24"
+        "minimumApiLevel": 24
     },
     "HopOnBloonsWhen": {
         "version": "1.1.4",
-        "build": "https://plugins.ushie.dev/HopOnBloonsWhen",
+        "build": "https://plugins.ushie.dev/HopOnBloonsWhen.zip",
         "changelog": "null",
         "minimumAliucordVersion": "2.9.1",
         "minimumKotlinVersion": "1.5.21",
-        "minimumApiLevel": "24"
+        "minimumApiLevel": 24
     },
     "ReactionEmojiName": {
         "version": "1.0.0",
-        "build": "https://plugins.ushie.dev/ReactionEmojiName",
+        "build": "https://plugins.ushie.dev/ReactionEmojiName.zip",
         "changelog": "null",
         "minimumAliucordVersion": "2.9.1",
         "minimumKotlinVersion": "1.5.21",
-        "minimumApiLevel": "24"
+        "minimumApiLevel": 24
     },
     "CustomNameFormat": {
         "version": "1.0.1",
-        "build": "https://plugins.ushie.dev/CustomNameFormat",
+        "build": "https://plugins.ushie.dev/CustomNameFormat.zip",
         "changelog": "null",
         "minimumAliucordVersion": "2.9.1",
         "minimumKotlinVersion": "1.5.21",
-        "minimumApiLevel": "24"
+        "minimumApiLevel": 24
     },
     "ShowHiddenMutedChannelsWithMentions": {
         "version": "1.0.0",
-        "build": "https://plugins.ushie.dev/ShowHiddenMutedChannelsWithMentions",
+        "build": "https://plugins.ushie.dev/ShowHiddenMutedChannelsWithMentions.zip",
         "changelog": "null",
         "minimumAliucordVersion": "2.9.1",
         "minimumKotlinVersion": "1.5.21",
-        "minimumApiLevel": "24"
+        "minimumApiLevel": 24
     },
     "VideoEmbedPatch": {
         "version": "1.1.1",
-        "build": "https://plugins.ushie.dev/VideoEmbedPatch",
+        "build": "https://plugins.ushie.dev/VideoEmbedPatch.zip",
         "changelog": "null",
         "minimumAliucordVersion": "2.9.1",
         "minimumKotlinVersion": "1.5.21",
-        "minimumApiLevel": "24"
+        "minimumApiLevel": 24
     },
     "TextReact": {
         "version": "1.0.41",
-        "build": "https://plugins.ushie.dev/TextReact",
+        "build": "https://plugins.ushie.dev/TextReact.zip",
         "changelog": "null",
         "minimumAliucordVersion": "2.9.1",
         "minimumKotlinVersion": "1.5.21",
-        "minimumApiLevel": "24"
+        "minimumApiLevel": 24
     },
     "GreenText": {
         "version": "1.0.5",
-        "build": "https://plugins.ushie.dev/GreenText",
+        "build": "https://plugins.ushie.dev/GreenText.zip",
         "changelog": "null",
         "minimumAliucordVersion": "2.9.1",
         "minimumKotlinVersion": "1.5.21",
-        "minimumApiLevel": "24"
+        "minimumApiLevel": 24
     },
     "BetterUserDetails": {
         "version": "1.0.0",
-        "build": "https://plugins.ushie.dev/BetterUserDetails",
+        "build": "https://plugins.ushie.dev/BetterUserDetails.zip",
         "changelog": "null",
         "minimumAliucordVersion": "2.9.1",
         "minimumKotlinVersion": "1.5.21",
-        "minimumApiLevel": "24"
+        "minimumApiLevel": 24
     },
     "EditWebhooks": {
         "version": "1.1.13",
-        "build": "https://plugins.ushie.dev/EditWebhooks",
+        "build": "https://plugins.ushie.dev/EditWebhooks.zip",
         "changelog": "null",
         "minimumAliucordVersion": "2.9.1",
         "minimumKotlinVersion": "1.5.21",
-        "minimumApiLevel": "24"
+        "minimumApiLevel": 24
     },
     "TenorGifFix": {
         "version": "1.0.0",
-        "build": "https://plugins.ushie.dev/TenorGifFix",
+        "build": "https://plugins.ushie.dev/TenorGifFix.zip",
         "changelog": "null",
         "minimumAliucordVersion": "2.9.1",
         "minimumKotlinVersion": "1.5.21",
-        "minimumApiLevel": "24"
+        "minimumApiLevel": 24
     },
     "NoReactions": {
         "version": "1.0.1",
-        "build": "https://plugins.ushie.dev/NoReactions",
+        "build": "https://plugins.ushie.dev/NoReactions.zip",
         "changelog": "null",
         "minimumAliucordVersion": "2.9.1",
         "minimumKotlinVersion": "1.5.21",
-        "minimumApiLevel": "24"
+        "minimumApiLevel": 24
     },
     "Gnuify": {
         "version": "1.0.2",
-        "build": "https://plugins.ushie.dev/Gnuify",
+        "build": "https://plugins.ushie.dev/Gnuify.zip",
         "changelog": "null",
         "minimumAliucordVersion": "2.9.1",
         "minimumKotlinVersion": "1.5.21",
-        "minimumApiLevel": "24"
+        "minimumApiLevel": 24
     },
     "ShowHiddenChannels": {
         "version": "1.3.0",
-        "build": "https://plugins.ushie.dev/ShowHiddenChannels",
+        "build": "https://plugins.ushie.dev/ShowHiddenChannels.zip",
         "changelog": "Added {added marginTop} \n======================\n\n* added voice channels\n\nImproved {improved marginTop}\n======================\n\n* improved hidden channels appearance\n* refactored code",
         "minimumAliucordVersion": "2.9.1",
         "minimumKotlinVersion": "1.5.21",
-        "minimumApiLevel": "24"
+        "minimumApiLevel": 24
     },
     "PersistSettings": {
         "version": "1.1.3",
-        "build": "https://plugins.ushie.dev/PersistSettings",
+        "build": "https://plugins.ushie.dev/PersistSettings.zip",
         "changelog": "null",
         "minimumAliucordVersion": "2.9.1",
         "minimumKotlinVersion": "1.5.21",
-        "minimumApiLevel": "24"
+        "minimumApiLevel": 24
     },
     "ValidUser": {
         "version": "0.2.3",
-        "build": "https://plugins.ushie.dev/ValidUser",
+        "build": "https://plugins.ushie.dev/ValidUser.zip",
         "changelog": "null",
         "minimumAliucordVersion": "2.9.1",
         "minimumKotlinVersion": "1.5.21",
-        "minimumApiLevel": "24"
+        "minimumApiLevel": 24
     },
     "Obliterate": {
         "version": "1.0.2",
-        "build": "https://plugins.ushie.dev/Obliterate",
+        "build": "https://plugins.ushie.dev/Obliterate.zip",
         "changelog": "null",
         "minimumAliucordVersion": "2.9.1",
         "minimumKotlinVersion": "1.5.21",
-        "minimumApiLevel": "24"
+        "minimumApiLevel": 24
     },
     "ChannelBrowser": {
         "version": "0.1.0",
-        "build": "https://plugins.ushie.dev/ChannelBrowser",
+        "build": "https://plugins.ushie.dev/ChannelBrowser.zip",
         "changelog": "null",
         "minimumAliucordVersion": "2.9.1",
         "minimumKotlinVersion": "1.5.21",
-        "minimumApiLevel": "24"
+        "minimumApiLevel": 24
     },
     "WhoReacted": {
         "version": "0.2.3",
-        "build": "https://plugins.ushie.dev/WhoReacted",
+        "build": "https://plugins.ushie.dev/WhoReacted.zip",
         "changelog": "null",
         "minimumAliucordVersion": "2.9.1",
         "minimumKotlinVersion": "1.5.21",
-        "minimumApiLevel": "24"
+        "minimumApiLevel": 24
     },
     "HideEmptyCategories": {
         "version": "1.0.0",
-        "build": "https://plugins.ushie.dev/HideEmptyCategories",
+        "build": "https://plugins.ushie.dev/HideEmptyCategories.zip",
         "changelog": "null",
         "minimumAliucordVersion": "2.9.1",
         "minimumKotlinVersion": "1.5.21",
-        "minimumApiLevel": "24"
+        "minimumApiLevel": 24
     },
     "NoUpsideDown": {
         "version": "1.0.1",
-        "build": "https://plugins.ushie.dev/NoUpsideDown",
+        "build": "https://plugins.ushie.dev/NoUpsideDown.zip",
         "changelog": "null",
         "minimumAliucordVersion": "2.9.1",
         "minimumKotlinVersion": "1.5.21",
-        "minimumApiLevel": "24"
+        "minimumApiLevel": 24
     },
     "LetThereBeColors": {
         "version": "1.0.7",
-        "build": "https://plugins.ushie.dev/LetThereBeColors",
+        "build": "https://plugins.ushie.dev/LetThereBeColors.zip",
         "changelog": "null",
         "minimumAliucordVersion": "2.9.1",
         "minimumKotlinVersion": "1.5.21",
-        "minimumApiLevel": "24"
+        "minimumApiLevel": 24
     },
     "FakeStickers": {
         "version": "1.1.3",
-        "build": "https://plugins.ushie.dev/FakeStickers",
+        "build": "https://plugins.ushie.dev/FakeStickers.zip",
         "changelog": "# 1.1.3\n* Allow replying\n# 1.1.2\n* Set sticker size to 160px\n# 1.1.1\n* Support Discord 105.12\n# 1.1.0\n* Make sticker picker automatically close after selecting a sticker\n* Do not mark stickers as unusable (monochrome filter)",
         "minimumAliucordVersion": "2.9.1",
         "minimumKotlinVersion": "1.5.21",
-        "minimumApiLevel": "24"
+        "minimumApiLevel": 24
     },
     "ShowBlockedMessagesAuthor": {
         "version": "1.0.0",
-        "build": "https://plugins.ushie.dev/ShowBlockedMessagesAuthor",
+        "build": "https://plugins.ushie.dev/ShowBlockedMessagesAuthor.zip",
         "changelog": "# 1.0.0\n* Initial release\n* TODO: Support multiple authors",
         "minimumAliucordVersion": "2.9.1",
         "minimumKotlinVersion": "1.5.21",
-        "minimumApiLevel": "24"
+        "minimumApiLevel": 24
     },
     "HighlightOwnMessages": {
         "version": "1.1.2",
-        "build": "https://plugins.ushie.dev/HighlightOwnMessages",
+        "build": "https://plugins.ushie.dev/HighlightOwnMessages.zip",
         "changelog": "null",
         "minimumAliucordVersion": "2.9.1",
         "minimumKotlinVersion": "1.5.21",
-        "minimumApiLevel": "24"
+        "minimumApiLevel": 24
     },
     "RainbowCord": {
         "version": "1.0.3",
-        "build": "https://plugins.ushie.dev/RainbowCord",
+        "build": "https://plugins.ushie.dev/RainbowCord.zip",
         "changelog": "null",
         "minimumAliucordVersion": "2.9.1",
         "minimumKotlinVersion": "1.5.21",
-        "minimumApiLevel": "24"
+        "minimumApiLevel": 24
     },
     "RevoltCord": {
         "version": "1.1.2",
-        "build": "https://plugins.ushie.dev/RevoltCord",
+        "build": "https://plugins.ushie.dev/RevoltCord.zip",
         "changelog": "null",
         "minimumAliucordVersion": "2.9.1",
         "minimumKotlinVersion": "1.5.21",
-        "minimumApiLevel": "24"
+        "minimumApiLevel": 24
     },
     "Stallman": {
         "version": "1.0.3",
-        "build": "https://plugins.ushie.dev/Stallman",
+        "build": "https://plugins.ushie.dev/Stallman.zip",
         "changelog": "null",
         "minimumAliucordVersion": "2.9.1",
         "minimumKotlinVersion": "1.5.21",
-        "minimumApiLevel": "24"
+        "minimumApiLevel": 24
     },
     "FullBio": {
         "version": "1.0.2",
-        "build": "https://plugins.ushie.dev/FullBio",
+        "build": "https://plugins.ushie.dev/FullBio.zip",
         "changelog": "null",
         "minimumAliucordVersion": "2.9.1",
         "minimumKotlinVersion": "1.5.21",
-        "minimumApiLevel": "24"
+        "minimumApiLevel": 24
     },
     "CopyPlease": {
         "version": "1.0.3",
-        "build": "https://plugins.ushie.dev/CopyPlease",
+        "build": "https://plugins.ushie.dev/CopyPlease.zip",
         "changelog": "null",
         "minimumAliucordVersion": "2.9.1",
         "minimumKotlinVersion": "1.5.21",
-        "minimumApiLevel": "24"
+        "minimumApiLevel": 24
     },
     "FixBluetoothAudioQuality": {
         "version": "1.1.2",
-        "build": "https://plugins.ushie.dev/FixBluetoothAudioQuality",
+        "build": "https://plugins.ushie.dev/FixBluetoothAudioQuality.zip",
         "changelog": "1.1.2\n======================\n\n* Add compatibility mode to settings, if the plugin does not work\n\n1.0.2\n======================\n\n* Fix not being able to switch between audio devices\n\n1.0.1\n======================\n\n* Fix some bugs\n\n1.0.0\n======================\n\nInitial release\n\n======================",
         "minimumAliucordVersion": "2.9.1",
         "minimumKotlinVersion": "1.5.21",
-        "minimumApiLevel": "24"
+        "minimumApiLevel": 24
     },
     "HideServers": {
         "version": "1.2.1",
-        "build": "https://plugins.ushie.dev/HideServers",
+        "build": "https://plugins.ushie.dev/HideServers.zip",
         "changelog": "# 1.2.1\n* Don't auto-reset to hide mode when moving servers in show/edit mode\n\n# 1.2.0\n* Handle moving servers in hide mode\n* Improve the hidden indicator in edit mode\n\n# 1.1.1\n* Don't automatically go back to hide mode when moving screens\n\n# 1.1.0\n* Add hiding folders\n* Add edit mode\n* Show icons to represent the current modes instead of the help icon\n\nIn edit mode, you can hold a folder to show/hide it or click it to open it",
         "minimumAliucordVersion": "2.9.1",
         "minimumKotlinVersion": "1.5.21",
-        "minimumApiLevel": "24"
+        "minimumApiLevel": 24
     },
     "HomeIconSwitcher": {
         "version": "1.0.3",
-        "build": "https://plugins.ushie.dev/HomeIconSwitcher",
+        "build": "https://plugins.ushie.dev/HomeIconSwitcher.zip",
         "changelog": "null",
         "minimumAliucordVersion": "2.9.1",
         "minimumKotlinVersion": "1.5.21",
-        "minimumApiLevel": "24"
+        "minimumApiLevel": 24
     },
     "NewMemberBadge": {
         "version": "1.0.1",
-        "build": "https://plugins.ushie.dev/NewMemberBadge",
+        "build": "https://plugins.ushie.dev/NewMemberBadge.zip",
         "changelog": "# 1.0.1\n* Fix badge randomly appearing in DMs",
         "minimumAliucordVersion": "2.9.1",
         "minimumKotlinVersion": "1.5.21",
-        "minimumApiLevel": "24"
+        "minimumApiLevel": 24
     },
     "AttachmentKeyboardFix": {
         "version": "1.0.3",
-        "build": "https://plugins.ushie.dev/AttachmentKeyboardFix",
+        "build": "https://plugins.ushie.dev/AttachmentKeyboardFix.zip",
         "changelog": "null",
         "minimumAliucordVersion": "2.9.1",
         "minimumKotlinVersion": "1.5.21",
-        "minimumApiLevel": "24"
+        "minimumApiLevel": 24
     },
     "AttachmentUtils": {
         "version": "1.0.2",
-        "build": "https://plugins.ushie.dev/AttachmentUtils",
+        "build": "https://plugins.ushie.dev/AttachmentUtils.zip",
         "changelog": "null",
         "minimumAliucordVersion": "2.9.1",
         "minimumKotlinVersion": "1.5.21",
-        "minimumApiLevel": "24"
+        "minimumApiLevel": 24
     },
     "CopyCodeBlocks": {
         "version": "1.0.1",
-        "build": "https://plugins.ushie.dev/CopyCodeBlocks",
+        "build": "https://plugins.ushie.dev/CopyCodeBlocks.zip",
         "changelog": "# 1.0.0\n* Initial version",
         "minimumAliucordVersion": "2.9.1",
         "minimumKotlinVersion": "1.5.21",
-        "minimumApiLevel": "24"
+        "minimumApiLevel": 24
     },
     "BetterPlusReacts": {
         "version": "1.0.3",
-        "build": "https://plugins.ushie.dev/BetterPlusReacts",
+        "build": "https://plugins.ushie.dev/BetterPlusReacts.zip",
         "changelog": "# 1.0.2\n* Support for custom emojis\n\n# 1.0.1\n* Support for '+++⭐' format\n\n# 1.0.0\n* Initial version",
         "minimumAliucordVersion": "2.9.1",
         "minimumKotlinVersion": "1.5.21",
-        "minimumApiLevel": "24"
+        "minimumApiLevel": 24
     },
     "DeleteEmbeds": {
         "version": "1.1.5",
-        "build": "https://plugins.ushie.dev/DeleteEmbeds",
+        "build": "https://plugins.ushie.dev/DeleteEmbeds.zip",
         "changelog": "null",
         "minimumAliucordVersion": "2.9.1",
         "minimumKotlinVersion": "1.5.21",
-        "minimumApiLevel": "24"
+        "minimumApiLevel": 24
     },
     "ImageToClipboard": {
         "version": "1.2.0",
-        "build": "https://plugins.ushie.dev/ImageToClipboard",
+        "build": "https://plugins.ushie.dev/ImageToClipboard.zip",
         "changelog": "# 1.2.0\n* completely rewrite mime type detection",
         "minimumAliucordVersion": "2.9.1",
         "minimumKotlinVersion": "1.5.21",
-        "minimumApiLevel": "24"
+        "minimumApiLevel": 24
     },
     "VCID": {
         "version": "1.1.3",
-        "build": "https://plugins.ushie.dev/VCID",
+        "build": "https://plugins.ushie.dev/VCID.zip",
         "changelog": "null",
         "minimumAliucordVersion": "2.9.1",
         "minimumKotlinVersion": "1.5.21",
-        "minimumApiLevel": "24"
+        "minimumApiLevel": 24
     },
     "NativeFriendNicknames": {
         "version": "1.1.6",
-        "build": "https://plugins.ushie.dev/NativeFriendNicknames",
+        "build": "https://plugins.ushie.dev/NativeFriendNicknames.zip",
         "changelog": "# 1.1.6\n* don't display friend nickname in servers",
         "minimumAliucordVersion": "2.9.1",
         "minimumKotlinVersion": "1.5.21",
-        "minimumApiLevel": "24"
+        "minimumApiLevel": 24
     },
     "PronounsInChat": {
         "version": "1.0.0",
-        "build": "https://plugins.ushie.dev/PronounsInChat",
+        "build": "https://plugins.ushie.dev/PronounsInChat.zip",
         "changelog": "null",
         "minimumAliucordVersion": "2.9.1",
         "minimumKotlinVersion": "1.5.21",
-        "minimumApiLevel": "24"
+        "minimumApiLevel": 24
     },
     "CCModDB": {
         "version": "1.2.0",
-        "build": "https://plugins.ushie.dev/CCModDB",
+        "build": "https://plugins.ushie.dev/CCModDB.zip",
         "changelog": "# 1.2.0\n* Updated for v101.3",
         "minimumAliucordVersion": "2.9.1",
         "minimumKotlinVersion": "1.5.21",
-        "minimumApiLevel": "24"
+        "minimumApiLevel": 24
     },
     "MuteVoiceAndStageChannels": {
         "version": "1.0.0",
-        "build": "https://plugins.ushie.dev/MuteVoiceAndStageChannels",
+        "build": "https://plugins.ushie.dev/MuteVoiceAndStageChannels.zip",
         "changelog": "null",
         "minimumAliucordVersion": "2.9.1",
         "minimumKotlinVersion": "1.5.21",
-        "minimumApiLevel": "24"
+        "minimumApiLevel": 24
     },
     "NanomachinesSon": {
         "version": "1.0.1",
-        "build": "https://plugins.ushie.dev/NanomachinesSon",
+        "build": "https://plugins.ushie.dev/NanomachinesSon.zip",
         "changelog": "null",
         "minimumAliucordVersion": "2.9.1",
         "minimumKotlinVersion": "1.5.21",
-        "minimumApiLevel": "24"
+        "minimumApiLevel": 24
     },
     "AutoSpoilerAttachments": {
         "version": "1.0.0",
-        "build": "https://plugins.ushie.dev/AutoSpoilerAttachments",
+        "build": "https://plugins.ushie.dev/AutoSpoilerAttachments.zip",
         "changelog": "# 1.0.0\n* Initial version",
         "minimumAliucordVersion": "2.9.1",
         "minimumKotlinVersion": "1.5.21",
-        "minimumApiLevel": "24"
+        "minimumApiLevel": 24
     },
     "Quoter": {
         "version": "1.2.2",
-        "build": "https://plugins.ushie.dev/Quoter",
+        "build": "https://plugins.ushie.dev/Quoter.zip",
         "changelog": "null",
         "minimumAliucordVersion": "2.9.1",
         "minimumKotlinVersion": "1.5.21",
-        "minimumApiLevel": "24"
+        "minimumApiLevel": 24
     },
     "RoleColorContrast": {
         "version": "1.1.0",
-        "build": "https://plugins.ushie.dev/RoleColorContrast",
+        "build": "https://plugins.ushie.dev/RoleColorContrast.zip",
         "changelog": "# Version 1.1.0\n* Now supports names in the member list\n* Fixed a possible issue when themer was not installed\n* Contrast adjustments are now faster\n\n# Version 1.0.0\n* Initial release, supporting only names in chat",
         "minimumAliucordVersion": "2.9.1",
         "minimumKotlinVersion": "1.5.21",
-        "minimumApiLevel": "24"
+        "minimumApiLevel": 24
     },
     "AutoShowSpoilers": {
         "version": "1.1.0",
-        "build": "https://plugins.ushie.dev/AutoShowSpoilers",
+        "build": "https://plugins.ushie.dev/AutoShowSpoilers.zip",
         "changelog": "null",
         "minimumAliucordVersion": "2.9.1",
         "minimumKotlinVersion": "1.5.21",
-        "minimumApiLevel": "24"
+        "minimumApiLevel": 24
     },
     "ForceNotifications": {
         "version": "1.0.0",
-        "build": "https://plugins.ushie.dev/ForceNotifications",
+        "build": "https://plugins.ushie.dev/ForceNotifications.zip",
         "changelog": "v1.0.0\n- Initial release",
         "minimumAliucordVersion": "2.9.1",
         "minimumKotlinVersion": "1.5.21",
-        "minimumApiLevel": "24"
+        "minimumApiLevel": 24
     },
     "HideEvents": {
         "version": "1.0.0",
-        "build": "https://plugins.ushie.dev/HideEvents",
+        "build": "https://plugins.ushie.dev/HideEvents.zip",
         "changelog": "null",
         "minimumAliucordVersion": "2.9.1",
         "minimumKotlinVersion": "1.5.21",
-        "minimumApiLevel": "24"
+        "minimumApiLevel": 24
     },
     "DMsToBottom": {
         "version": "1.1.0",
-        "build": "https://plugins.ushie.dev/DMsToBottom",
+        "build": "https://plugins.ushie.dev/DMsToBottom.zip",
         "changelog": "# 1.1.0\n* Added the ability to stack the server list to the bottom (toggleable in settings) ",
         "minimumAliucordVersion": "2.9.1",
         "minimumKotlinVersion": "1.5.21",
-        "minimumApiLevel": "24"
+        "minimumApiLevel": 24
     },
     "PluginWeb": {
         "version": "1.0.9",
-        "build": "https://plugins.ushie.dev/PluginWeb",
+        "build": "https://plugins.ushie.dev/PluginWeb.zip",
         "changelog": "# 1.0.8\n* Hide installed plugins from the list\n\n# 1.0.7\n* Fixed a resource leak when fetching plugins\n\n# 1.0.4\n* Added searching by author\n\n# 1.0.2\n* Fixed button position shifting due to other plugins\n\n# 1.0.1\n* Faster plugin fetching\n\n# 1.0.0\n* Initial version",
         "minimumAliucordVersion": "2.9.1",
         "minimumKotlinVersion": "1.5.21",
-        "minimumApiLevel": "24"
+        "minimumApiLevel": 24
     },
     "ClearURLs": {
         "version": "1.0.0",
-        "build": "https://plugins.ushie.dev/ClearURLs",
+        "build": "https://plugins.ushie.dev/ClearURLs.zip",
         "changelog": "null",
         "minimumAliucordVersion": "2.9.1",
         "minimumKotlinVersion": "1.5.21",
-        "minimumApiLevel": "24"
+        "minimumApiLevel": 24
     },
     "ThemeWeb": {
         "version": "1.0.3",
-        "build": "https://plugins.ushie.dev/ThemeWeb",
+        "build": "https://plugins.ushie.dev/ThemeWeb.zip",
         "changelog": "# 1.0.2\n* Fixed a resource leak when fetching themes\n\n# 1.0.1\n* Automatically installs Themer if missing\n\n# 1.0.0\n* Initial version",
         "minimumAliucordVersion": "2.9.1",
         "minimumKotlinVersion": "1.5.21",
-        "minimumApiLevel": "24"
+        "minimumApiLevel": 24
     },
     "BetterFontScale": {
         "version": "1.1.3",
-        "build": "https://plugins.ushie.dev/BetterFontScale",
+        "build": "https://plugins.ushie.dev/BetterFontScale.zip",
         "changelog": "# 1.1.2\n* Fix username scaling in the chat list\n\n# 1.1.1\n* Fix font scaling\n\n# 1.0.7\n* Improved patches\n* Removed tag font scale setting\n\n# 1.0.6\n* Added a setting for profile status font scale\n\n# 1.0.5\n* Added a setting for about me font scale\n\n# 1.0.3\n* Fixed crashes caused by entering non-numeric values in plugin settings\n\n# 1.0.2\n* Added settings for username font scale, tag font scale, and game status font scale\n\n# 1.0.1\n* Added a setting for chatbox font scale\n\n# 1.0.0\n* Initial version",
         "minimumAliucordVersion": "2.9.1",
         "minimumKotlinVersion": "1.5.21",
-        "minimumApiLevel": "24"
+        "minimumApiLevel": 24
     },
     "SwipeActions": {
         "version": "1.0.0",
-        "build": "https://plugins.ushie.dev/SwipeActions",
+        "build": "https://plugins.ushie.dev/SwipeActions.zip",
         "changelog": "# 1.0.0\n* Initial version",
         "minimumAliucordVersion": "2.9.1",
         "minimumKotlinVersion": "1.5.21",
-        "minimumApiLevel": "24"
+        "minimumApiLevel": 24
     },
     "FuckOffDiscord": {
         "version": "1.0.1",
-        "build": "https://plugins.ushie.dev/FuckOffDiscord",
+        "build": "https://plugins.ushie.dev/FuckOffDiscord.zip",
         "changelog": "null",
         "minimumAliucordVersion": "2.9.1",
         "minimumKotlinVersion": "1.5.21",
-        "minimumApiLevel": "24"
+        "minimumApiLevel": 24
     },
     "ReverseImageSearch": {
         "version": "1.0.4",
-        "build": "https://plugins.ushie.dev/ReverseImageSearch",
+        "build": "https://plugins.ushie.dev/ReverseImageSearch.zip",
         "changelog": "# Version 1.0.4\n* Fix reverse searching not working on expired discord urls and images inside embeds (thanks Delphox)\n# Version 1.0.3\n* Replace google images search with google lens, as the old images URL no longer works (thanks Delphox)\n# Version 1.0.2\n* Fixed google images search (i love it when google)\n# Version 1.0.1\n* Fixed a bug where some images would not work when using google\n# Version 1.0.0\n* Initial release",
         "minimumAliucordVersion": "2.9.1",
         "minimumKotlinVersion": "1.5.21",
-        "minimumApiLevel": "24"
+        "minimumApiLevel": 24
     },
     "PinIcon": {
         "version": "1.1.0",
-        "build": "https://plugins.ushie.dev/PinIcon",
+        "build": "https://plugins.ushie.dev/PinIcon.zip",
         "changelog": "null",
         "minimumAliucordVersion": "2.9.1",
         "minimumKotlinVersion": "1.5.21",
-        "minimumApiLevel": "24"
+        "minimumApiLevel": 24
     },
     "Moyai": {
         "version": "1.2.2",
-        "build": "https://plugins.ushie.dev/Moyai",
+        "build": "https://plugins.ushie.dev/Moyai.zip",
         "changelog": "null",
         "minimumAliucordVersion": "2.9.1",
         "minimumKotlinVersion": "1.5.21",
-        "minimumApiLevel": "24"
+        "minimumApiLevel": 24
     },
     "RoleMembers": {
         "version": "1.0.4",
-        "build": "https://plugins.ushie.dev/RoleMembers",
+        "build": "https://plugins.ushie.dev/RoleMembers.zip",
         "changelog": "null",
         "minimumAliucordVersion": "2.9.1",
         "minimumKotlinVersion": "1.5.21",
-        "minimumApiLevel": "24"
+        "minimumApiLevel": 24
     },
     "SendEmbeds": {
         "version": "1.2.9",
-        "build": "https://plugins.ushie.dev/SendEmbeds",
+        "build": "https://plugins.ushie.dev/SendEmbeds.zip",
         "changelog": "null",
         "minimumAliucordVersion": "2.9.1",
         "minimumKotlinVersion": "1.5.21",
-        "minimumApiLevel": "24"
+        "minimumApiLevel": 24
     },
     "GlobalProfilesOnly": {
         "version": "1.0.1",
-        "build": "https://plugins.ushie.dev/GlobalProfilesOnly",
+        "build": "https://plugins.ushie.dev/GlobalProfilesOnly.zip",
         "changelog": "# 1.0.1\n* Fix nickname setting not doing anything",
         "minimumAliucordVersion": "2.9.1",
         "minimumKotlinVersion": "1.5.21",
-        "minimumApiLevel": "24"
+        "minimumApiLevel": 24
     },
     "HoldAuthorToCopyId": {
         "version": "1.0.0",
-        "build": "https://plugins.ushie.dev/HoldAuthorToCopyId",
+        "build": "https://plugins.ushie.dev/HoldAuthorToCopyId.zip",
         "changelog": "null",
         "minimumAliucordVersion": "2.9.1",
         "minimumKotlinVersion": "1.5.21",
-        "minimumApiLevel": "24"
+        "minimumApiLevel": 24
     },
     "AvatarInHeader": {
         "version": "1.0.1",
-        "build": "https://plugins.ushie.dev/AvatarInHeader",
+        "build": "https://plugins.ushie.dev/AvatarInHeader.zip",
         "changelog": "# 1.0.1\n* Fix positioning of the avatar",
         "minimumAliucordVersion": "2.9.1",
         "minimumKotlinVersion": "1.5.21",
-        "minimumApiLevel": "24"
+        "minimumApiLevel": 24
     },
     "Sed": {
         "version": "1.1.0",
-        "build": "https://plugins.ushie.dev/Sed",
+        "build": "https://plugins.ushie.dev/Sed.zip",
         "changelog": "1.0.0:\n- Initial release\n1.1.0:\n- Add advanced mode (see README for details)",
         "minimumAliucordVersion": "2.9.1",
         "minimumKotlinVersion": "1.5.21",
-        "minimumApiLevel": "24"
+        "minimumApiLevel": 24
     },
     "PersistMessageDrafts": {
         "version": "1.0.1",
-        "build": "https://plugins.ushie.dev/PersistMessageDrafts",
+        "build": "https://plugins.ushie.dev/PersistMessageDrafts.zip",
         "changelog": "null",
         "minimumAliucordVersion": "2.9.1",
         "minimumKotlinVersion": "1.5.21",
-        "minimumApiLevel": "24"
+        "minimumApiLevel": 24
     },
     "Yoink": {
         "version": "1.0.0",
-        "build": "https://plugins.ushie.dev/Yoink",
+        "build": "https://plugins.ushie.dev/Yoink.zip",
         "changelog": "# 1.0.0\n* Initial version",
         "minimumAliucordVersion": "2.9.1",
         "minimumKotlinVersion": "1.5.21",
-        "minimumApiLevel": "24"
+        "minimumApiLevel": 24
     },
     "LowerCaseCategoryNames": {
         "version": "1.0.0",
-        "build": "https://plugins.ushie.dev/LowerCaseCategoryNames",
+        "build": "https://plugins.ushie.dev/LowerCaseCategoryNames.zip",
         "changelog": "null",
         "minimumAliucordVersion": "2.9.1",
         "minimumKotlinVersion": "1.5.21",
-        "minimumApiLevel": "24"
+        "minimumApiLevel": 24
     },
     "AttachmentRemover": {
         "version": "1.0.0",
-        "build": "https://plugins.ushie.dev/AttachmentRemover",
+        "build": "https://plugins.ushie.dev/AttachmentRemover.zip",
         "changelog": "# 1.0.0\n* Initial version",
         "minimumAliucordVersion": "2.9.1",
         "minimumKotlinVersion": "1.5.21",
-        "minimumApiLevel": "24"
+        "minimumApiLevel": 24
     },
     "AliucordStyleSheets": {
         "version": "1.0.7",
-        "build": "https://plugins.ushie.dev/AliucordStyleSheets",
+        "build": "https://plugins.ushie.dev/AliucordStyleSheets.zip",
         "changelog": "# 1.0.0\n* Initial version",
         "minimumAliucordVersion": "2.9.1",
         "minimumKotlinVersion": "1.5.21",
-        "minimumApiLevel": "26"
+        "minimumApiLevel": 26
     },
     "NitroSpoof": {
         "version": "1.0.10",
-        "build": "https://plugins.ushie.dev/NitroSpoof",
+        "build": "https://plugins.ushie.dev/NitroSpoof.zip",
         "changelog": "# 1.0.10\n* Added the lossless quality argument to the emoji URL to combat Blur (by RGBCube)\n* Added the emoji name argument to the URL to help Vencord properly display the emoji (by Delphox)\n* Fix emojis breaking when the server boost runs out (by Delphox)\n* Fix invalid emoji size breaking the final emoji URL (by RGBCube)\n# 1.0.9\n* Removed the troll and made NitroSpoof work again\n* Thanks to Lenk for helping me with the code\n* The /freenitro slash command was changed to /freenitroll (use the command if you are sure you want to allow it to delete NitroSpoof)\n* No the command is not malicious and I am specifically telling you it will only delete NitroSpoof.zip\n* Ven is still my beloved -Foxy",
         "minimumAliucordVersion": "2.9.1",
         "minimumKotlinVersion": "1.5.21",
-        "minimumApiLevel": "24"
+        "minimumApiLevel": 24
     },
     "AURSearch": {
         "version": "1.1.0",
-        "build": "https://plugins.ushie.dev/AURSearch",
+        "build": "https://plugins.ushie.dev/AURSearch.zip",
         "changelog": "# 1.1.0\n* Updated for v101.3",
         "minimumAliucordVersion": "2.9.1",
         "minimumKotlinVersion": "1.5.21",
-        "minimumApiLevel": "24"
+        "minimumApiLevel": 24
     },
     "ShittyDownloadStickers": {
         "version": "1.0.2",
-        "build": "https://plugins.ushie.dev/ShittyDownloadStickers",
+        "build": "https://plugins.ushie.dev/ShittyDownloadStickers.zip",
         "changelog": "null",
         "minimumAliucordVersion": "2.9.1",
         "minimumKotlinVersion": "1.5.21",
-        "minimumApiLevel": "24"
+        "minimumApiLevel": 24
     },
     "MoreTags": {
         "version": "1.2.4",
-        "build": "https://plugins.ushie.dev/MoreTags",
+        "build": "https://plugins.ushie.dev/MoreTags.zip",
         "changelog": "null",
         "minimumAliucordVersion": "2.9.1",
         "minimumKotlinVersion": "1.5.21",
-        "minimumApiLevel": "24"
+        "minimumApiLevel": 24
     },
     "Template": {
         "version": "1.0.0",
-        "build": "https://plugins.ushie.dev/Template",
+        "build": "https://plugins.ushie.dev/Template.zip",
         "changelog": "# 1.0.0\n* Initial plugin release!",
         "minimumAliucordVersion": "2.9.1",
         "minimumKotlinVersion": "1.5.21",
-        "minimumApiLevel": "24"
+        "minimumApiLevel": 24
     },
     "HideBlockedMessages": {
         "version": "1.2.1",
-        "build": "https://plugins.ushie.dev/HideBlockedMessages",
+        "build": "https://plugins.ushie.dev/HideBlockedMessages.zip",
         "changelog": "null",
         "minimumAliucordVersion": "2.9.1",
         "minimumKotlinVersion": "1.5.21",
-        "minimumApiLevel": "24"
+        "minimumApiLevel": 24
     },
     "MoarConfirm": {
         "version": "1.0.6",
-        "build": "https://plugins.ushie.dev/MoarConfirm",
+        "build": "https://plugins.ushie.dev/MoarConfirm.zip",
         "changelog": "## 1.0.4\n- Added confirmation for deleting a role",
         "minimumAliucordVersion": "2.9.1",
         "minimumKotlinVersion": "1.5.21",
-        "minimumApiLevel": "24"
+        "minimumApiLevel": 24
     },
     "ChangeDownloadPath": {
         "version": "1.0.0",
-        "build": "https://plugins.ushie.dev/ChangeDownloadPath",
+        "build": "https://plugins.ushie.dev/ChangeDownloadPath.zip",
         "changelog": "1.0.0:\n- Initial release",
         "minimumAliucordVersion": "2.9.1",
         "minimumKotlinVersion": "1.5.21",
-        "minimumApiLevel": "24"
+        "minimumApiLevel": 24
     },
     "BetterMarkdown": {
         "version": "1.0.7",
-        "build": "https://plugins.ushie.dev/BetterMarkdown",
+        "build": "https://plugins.ushie.dev/BetterMarkdown.zip",
         "changelog": "null",
         "minimumAliucordVersion": "2.9.1",
         "minimumKotlinVersion": "1.5.21",
-        "minimumApiLevel": "24"
+        "minimumApiLevel": 24
     },
     "BlockThemCalls": {
         "version": "1.0.0",
-        "build": "https://plugins.ushie.dev/BlockThemCalls",
+        "build": "https://plugins.ushie.dev/BlockThemCalls.zip",
         "changelog": "# 1.0.0\n* Initial version",
         "minimumAliucordVersion": "2.9.1",
         "minimumKotlinVersion": "1.5.21",
-        "minimumApiLevel": "24"
+        "minimumApiLevel": 24
     },
     "Cards": {
         "version": "1.0.1",
-        "build": "https://plugins.ushie.dev/Cards",
+        "build": "https://plugins.ushie.dev/Cards.zip",
         "changelog": "null",
         "minimumAliucordVersion": "2.9.1",
         "minimumKotlinVersion": "1.5.21",
-        "minimumApiLevel": "24"
+        "minimumApiLevel": 24
     },
     "RoleContextMenu": {
         "version": "1.2.1",
-        "build": "https://plugins.ushie.dev/RoleContextMenu",
+        "build": "https://plugins.ushie.dev/RoleContextMenu.zip",
         "changelog": "null",
         "minimumAliucordVersion": "2.9.1",
         "minimumKotlinVersion": "1.5.21",
-        "minimumApiLevel": "24"
+        "minimumApiLevel": 24
     },
     "MessageTimestamps": {
         "version": "1.0.2",
-        "build": "https://plugins.ushie.dev/MessageTimestamps",
+        "build": "https://plugins.ushie.dev/MessageTimestamps.zip",
         "changelog": "null",
         "minimumAliucordVersion": "2.9.1",
         "minimumKotlinVersion": "1.5.21",
-        "minimumApiLevel": "24"
+        "minimumApiLevel": 24
     },
     "AtPrefixProfiles": {
         "version": "1.0.0",
-        "build": "https://plugins.ushie.dev/AtPrefixProfiles",
+        "build": "https://plugins.ushie.dev/AtPrefixProfiles.zip",
         "changelog": "null",
         "minimumAliucordVersion": "2.9.1",
         "minimumKotlinVersion": "1.5.21",
-        "minimumApiLevel": "24"
+        "minimumApiLevel": 24
     },
     "SwipeToReply": {
         "version": "1.0.2",
-        "build": "https://plugins.ushie.dev/SwipeToReply",
+        "build": "https://plugins.ushie.dev/SwipeToReply.zip",
         "changelog": "# 1.0.0\n* Initial version",
         "minimumAliucordVersion": "2.9.1",
         "minimumKotlinVersion": "1.5.21",
-        "minimumApiLevel": "24"
+        "minimumApiLevel": 24
     },
     "AttachmentLimitFix": {
         "version": "1.0.0",
-        "build": "https://plugins.ushie.dev/AttachmentLimitFix",
+        "build": "https://plugins.ushie.dev/AttachmentLimitFix.zip",
         "changelog": "null",
         "minimumAliucordVersion": "2.9.1",
         "minimumKotlinVersion": "1.5.21",
-        "minimumApiLevel": "24"
+        "minimumApiLevel": 24
     },
     "FullUsernames": {
         "version": "1.0.2",
-        "build": "https://plugins.ushie.dev/FullUsernames",
+        "build": "https://plugins.ushie.dev/FullUsernames.zip",
         "changelog": "# 1.0.0\n* Initial version",
         "minimumAliucordVersion": "2.9.1",
         "minimumKotlinVersion": "1.5.21",
-        "minimumApiLevel": "24"
+        "minimumApiLevel": 24
     },
     "TwitterDownloadFix": {
         "version": "1.3.1",
-        "build": "https://plugins.ushie.dev/TwitterDownloadFix",
+        "build": "https://plugins.ushie.dev/TwitterDownloadFix.zip",
         "changelog": "\n        # 1.3.1\n        Bluesky actually stores the files as @jpeg instead of .jpeg so changing the URL doesn't work, so I can't fix that right now. \n        Will have to figure out how to change the file type after downloading instead of just changing the download URL.\n\n        # 1.3.0\n        Added bluesky support because I noticed it uses `@` instead of `.` when denoting file type. Not updating plugin name as that would break the updater.\n\n        # 1.2.0\n        Fixed the plugin. Again.\n        Now downloads directly from twitter instead of through discord's external image stuff.\n\n        # 1.1.0\n        Fixed the plugin.\n        Switched to regex for file renaming.\n        Renamed plugin at Rushii's request.\n\n        # 1.0.0\n        Plugin release\n    ",
         "minimumAliucordVersion": "2.9.1",
         "minimumKotlinVersion": "1.5.21",
-        "minimumApiLevel": "24"
+        "minimumApiLevel": 24
     },
     "xkcd": {
         "version": "1.0.4",
-        "build": "https://plugins.ushie.dev/xkcd",
+        "build": "https://plugins.ushie.dev/xkcd.zip",
         "changelog": "null",
         "minimumAliucordVersion": "2.9.1",
         "minimumKotlinVersion": "1.5.21",
-        "minimumApiLevel": "24"
+        "minimumApiLevel": 24
     },
     "LayoutController": {
         "version": "1.0.8",
-        "build": "https://plugins.ushie.dev/LayoutController",
+        "build": "https://plugins.ushie.dev/LayoutController.zip",
         "changelog": "null",
         "minimumAliucordVersion": "2.9.1",
         "minimumKotlinVersion": "1.5.21",
-        "minimumApiLevel": "24"
+        "minimumApiLevel": 24
     },
     "SimpleMessageLogger": {
         "version": "1.1.0",
-        "build": "https://plugins.ushie.dev/SimpleMessageLogger",
+        "build": "https://plugins.ushie.dev/SimpleMessageLogger.zip",
         "changelog": "# 1.0.8\n* Fixed compatibility with FreeNitroEmojis and NitroSpoof\n\n# 1.0.0\n* Initial version",
         "minimumAliucordVersion": "2.9.1",
         "minimumKotlinVersion": "1.5.21",
-        "minimumApiLevel": "24"
+        "minimumApiLevel": 24
     },
     "KeepExpressionsOpen": {
         "version": "1.0.0",
-        "build": "https://plugins.ushie.dev/KeepExpressionsOpen",
+        "build": "https://plugins.ushie.dev/KeepExpressionsOpen.zip",
         "changelog": "null",
         "minimumAliucordVersion": "2.9.1",
         "minimumKotlinVersion": "1.5.21",
-        "minimumApiLevel": "24"
+        "minimumApiLevel": 24
     },
     "MarqueeEverywhere": {
         "version": "1.1.2",
-        "build": "https://plugins.ushie.dev/MarqueeEverywhere",
+        "build": "https://plugins.ushie.dev/MarqueeEverywhere.zip",
         "changelog": "null",
         "minimumAliucordVersion": "2.9.1",
         "minimumKotlinVersion": "1.5.21",
-        "minimumApiLevel": "24"
+        "minimumApiLevel": 24
     },
     "TextReplace": {
         "version": "1.0.10",
-        "build": "https://plugins.ushie.dev/TextReplace",
+        "build": "https://plugins.ushie.dev/TextReplace.zip",
         "changelog": "null",
         "minimumAliucordVersion": "2.9.1",
         "minimumKotlinVersion": "1.5.21",
-        "minimumApiLevel": "24"
+        "minimumApiLevel": 24
     },
     "CompactLinks": {
         "version": "1.0.0",
-        "build": "https://plugins.ushie.dev/CompactLinks",
+        "build": "https://plugins.ushie.dev/CompactLinks.zip",
         "changelog": "null",
         "minimumAliucordVersion": "2.9.1",
         "minimumKotlinVersion": "1.5.21",
-        "minimumApiLevel": "24"
+        "minimumApiLevel": 24
     },
     "Notifier": {
         "version": "1.0.1",
-        "build": "https://plugins.ushie.dev/Notifier",
+        "build": "https://plugins.ushie.dev/Notifier.zip",
         "changelog": "null",
         "minimumAliucordVersion": "2.9.1",
         "minimumKotlinVersion": "1.5.21",
-        "minimumApiLevel": "24"
+        "minimumApiLevel": 24
     },
     "TwitterRebuild": {
         "version": "1.0.6",
-        "build": "https://plugins.ushie.dev/TwitterRebuild",
+        "build": "https://plugins.ushie.dev/TwitterRebuild.zip",
         "changelog": "# 1.0.6\n* fxtwitter is no longer working so now we are getting data from twitter embed\n# 1.0.5\n* Aliucord removed Pine hooks finally so I had to fix it\n# 1.0.4\n* Fix for Discord v101.3 (Also works with older versions)\n# 1.0.3\n* Bugfix for real this time I swear\n# 1.0.2\n* bugfix\n# 1.0.1\n* Now supports videos (barely).\n* Special thanks to HalalKing and mantikafasi for the code I kanged to add video support.",
         "minimumAliucordVersion": "2.9.1",
         "minimumKotlinVersion": "1.5.21",
-        "minimumApiLevel": "24"
+        "minimumApiLevel": 24
     },
     "ModernMentions": {
         "version": "1.1.2",
-        "build": "https://plugins.ushie.dev/ModernMentions",
+        "build": "https://plugins.ushie.dev/ModernMentions.zip",
         "changelog": "# 1.1.2\n* Fix invisible mentions when role color is enabled and the user has no role color\n# 1.1.1\n* Fix mention color when \"Use role color\" is disabled\n# 1.1.0\n* Add support for custom mention prefix (e.g. @)",
         "minimumAliucordVersion": "2.9.1",
         "minimumKotlinVersion": "1.5.21",
-        "minimumApiLevel": "24"
+        "minimumApiLevel": 24
     },
     "UnknownConnectionIcons": {
         "version": "1.4.1",
-        "build": "https://plugins.ushie.dev/UnknownConnectionIcons",
+        "build": "https://plugins.ushie.dev/UnknownConnectionIcons.zip",
         "changelog": "null",
         "minimumAliucordVersion": "2.9.1",
         "minimumKotlinVersion": "1.5.21",
-        "minimumApiLevel": "24"
+        "minimumApiLevel": 24
     },
     "ModernNitroIcons": {
         "version": "1.0.0",
-        "build": "https://plugins.ushie.dev/ModernNitroIcons",
+        "build": "https://plugins.ushie.dev/ModernNitroIcons.zip",
         "changelog": "null",
         "minimumAliucordVersion": "2.9.1",
         "minimumKotlinVersion": "1.5.21",
-        "minimumApiLevel": "24"
+        "minimumApiLevel": 24
     },
     "MarkdownToolbar": {
         "version": "1.0.0",
-        "build": "https://plugins.ushie.dev/MarkdownToolbar",
+        "build": "https://plugins.ushie.dev/MarkdownToolbar.zip",
         "changelog": "# 1.0.0\n* Initial version",
         "minimumAliucordVersion": "2.9.1",
         "minimumKotlinVersion": "1.5.21",
-        "minimumApiLevel": "24"
+        "minimumApiLevel": 24
     },
     "Translate": {
         "version": "1.3.1",
-        "build": "https://plugins.ushie.dev/Translate",
+        "build": "https://plugins.ushie.dev/Translate.zip",
         "changelog": "# Version 1.3.1\n* Fix translating multiple lines of text (finally)\n# Version 1.3.0\n* Added \"show original functionality\", will show the original, untranslated message, but still keeps it cached so you can instantly re-translate it.\n# Version 1.2.4\n* Fixed translate settings crash\n# Version 1.2.3\n* Updated to support discord 101.3\n# Version 1.2.2\n* Updated for new discord/aliucord version\n# Version 1.2.1\n* Improved/added language code validation\n* Added a list of language codes to plugin settings\n# Version 1.2.0\n* Edits the message with the translated text instead of creating a new local message\n# Version 1.1.2\n* Fixed message links not having /channels/\n* Moved classes to com.aliucord.plugins.translate\n# Version 1.1.1\n* Added settings to modify the default translation language\n# Version 1.1.0\n* Add /translate to translate text from one language to another, and send it in chat by default.\n# Version 1.0.0\n* Initial release",
         "minimumAliucordVersion": "2.9.1",
         "minimumKotlinVersion": "1.5.21",
-        "minimumApiLevel": "24"
+        "minimumApiLevel": 24
     },
     "Timezones": {
         "version": "1.3.0",
-        "build": "https://plugins.ushie.dev/Timezones",
+        "build": "https://plugins.ushie.dev/Timezones.zip",
         "changelog": "# 1.3.0\nSupport IANA timezones (daylight savings finally real)\n\n# 1.2.3\nShow user's local time at sending time in message headers (#35)\nor something... i dont remember havent plugin dev in years\n\n# 1.2.2\nFix the silly ahh 00:04 PM thing\n\n# 1.2.1\n* Add bulk fetch for user timezones\n    \n# 1.2.0\n* Add caching\n\n# 1.1.9\n* Fix hook for message header\n* Increase max width for message timestamp\n* Cache timeInHeader setting\n* Hide own local time for message header\n\n# 1.1.8\n* move domains guhhh aa will explode\n\n# 1.1.7\n* fix padded zeros and ui thread error\n\n# 1.1.6\n* Make plugin compatible with Android 7 & 8\n* Now detect 24h/12h preference from system\n\n# 1.1.5\n* said option will apply if you turn on after plugin starts\n# 1.1.4\n* Added option for user time in message timestamp (looks bad but works)\n\n# 1.1.0\n* Added TimezoneDB support (by mantikafasi)\n\n# 1.0.7\n* Made settings page look slightly nicer\n\n# Announcement\n* I don't plan on adding new features since the base functionality is already here.\n* Feel free to PR if you want.",
         "minimumAliucordVersion": "2.9.1",
         "minimumKotlinVersion": "1.5.21",
-        "minimumApiLevel": "24"
+        "minimumApiLevel": 24
     },
     "CopyInsteadOfShareImages": {
         "version": "1.0.8",
-        "build": "https://plugins.ushie.dev/CopyInsteadOfShareImages",
+        "build": "https://plugins.ushie.dev/CopyInsteadOfShareImages.zip",
         "changelog": "null",
         "minimumAliucordVersion": "2.9.1",
         "minimumKotlinVersion": "1.5.21",
-        "minimumApiLevel": "24"
+        "minimumApiLevel": 24
     },
     "TextEmoji": {
         "version": "1.0.2",
-        "build": "https://plugins.ushie.dev/TextEmoji",
+        "build": "https://plugins.ushie.dev/TextEmoji.zip",
         "changelog": "v1.0.2:\n- Change build URL to GitHub\nv1.0.1:\n- Fix custom emoji reactions displaying as text\nv1.0.0:\n- Initial release",
         "minimumAliucordVersion": "2.9.1",
         "minimumKotlinVersion": "1.5.21",
-        "minimumApiLevel": "24"
+        "minimumApiLevel": 24
     },
     "NitroSpoofForNQN": {
         "version": "1.0.0",
-        "build": "https://plugins.ushie.dev/NitroSpoofForNQN",
+        "build": "https://plugins.ushie.dev/NitroSpoofForNQN.zip",
         "changelog": "null",
         "minimumAliucordVersion": "2.9.1",
         "minimumKotlinVersion": "1.5.21",
-        "minimumApiLevel": "24"
+        "minimumApiLevel": 24
     },
     "CallTime": {
         "version": "1.0.3",
-        "build": "https://plugins.ushie.dev/CallTime",
+        "build": "https://plugins.ushie.dev/CallTime.zip",
         "changelog": "# Version 1.0.3\n* Updated for new discord/aliucord version\n# Version 1.0.2\n* Fix a crash\n* Fix seconds bugging out with long times\n# Version 1.0.1\n* Fix ending timer on mute/deafen\n# Version 1.0.0\n* Initial release",
         "minimumAliucordVersion": "2.9.1",
         "minimumKotlinVersion": "1.5.21",
-        "minimumApiLevel": "24"
+        "minimumApiLevel": 24
     },
     "DebugLogEnhancer": {
         "version": "1.0.1",
-        "build": "https://plugins.ushie.dev/DebugLogEnhancer",
+        "build": "https://plugins.ushie.dev/DebugLogEnhancer.zip",
         "changelog": "null",
         "minimumAliucordVersion": "2.9.1",
         "minimumKotlinVersion": "1.5.21",
-        "minimumApiLevel": "24"
+        "minimumApiLevel": 24
     },
     "CleanChannels": {
         "version": "1.0.4",
-        "build": "https://plugins.ushie.dev/CleanChannels",
+        "build": "https://plugins.ushie.dev/CleanChannels.zip",
         "changelog": "# 1.0.4\n* Fixed unintentionally applying to usernames \n\n# 1.0.3\n* Fixed conflicts with CharCounter\n\n# 1.0.1\n* now works with threads sucessfully (doesnt remove spaces or dashes)\n* you can now whitelist a server from the menu, and show/hide this toggle in the settings\n* there is now a normalization setting which turns fancy characters into standard ones",
         "minimumAliucordVersion": "2.9.1",
         "minimumKotlinVersion": "1.5.21",
-        "minimumApiLevel": "24"
+        "minimumApiLevel": 24
     }
 }
